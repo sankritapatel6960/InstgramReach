@@ -2,4 +2,9 @@ pandas
 numpy
 matplotlib
 seaborn
--e .
+plotly
+nbformat>=4.2.0
+wordcloud
+statsmodels
+scikit-learn
+# -e .
