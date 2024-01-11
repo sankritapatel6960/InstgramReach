@@ -7,4 +7,7 @@ nbformat>=4.2.0
 wordcloud
 statsmodels
 scikit-learn
+dill
+xgboost
+catboost
 # -e .
